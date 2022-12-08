@@ -11,3 +11,7 @@ and similarly for the f_dot.y and the 2nd variable)
 Note;
 You can get cool effects by // out the 'displayBackground' function in 'displaySystem' (both in manager) so the flows are left as tracks 
 rather than just seeing the points move individually
+
+There are also some preset ODE examples included in a hashed out area within 'odeInput' that can be pasted in
+
+Hope you enjoy trying it out ;)
