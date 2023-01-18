@@ -156,7 +156,7 @@ class manager{
         fill(255);
         textAlign(LEFT, CENTER);
         textSize(20);
-        text(frameRate, 10,30);
+        //text(frameRate, 10,30);
         
         popStyle();
     }
